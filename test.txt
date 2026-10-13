@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello 
 world
+=======
+hello 
+temp
+>>>>>>> e09115219529fd6b79448aa61968f0b08ed0f87a
