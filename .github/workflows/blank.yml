@@ -31,7 +31,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Show OS
-        run: echo $env: OS
+        run: echo $env:OS
 
       - name: Hostname
         run: hostname
